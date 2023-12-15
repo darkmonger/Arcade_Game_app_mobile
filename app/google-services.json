@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971200986608",
+    "project_id": "arcade-project-346517",
+    "storage_bucket": "arcade-project-346517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971200986608:android:4f6450f92a6edf82f7b135",
+        "android_client_info": {
+          "package_name": "com.example.arcade_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971200986608-817e0gr9ksddcrmbedtq23029o3pluel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_m9_BmiyXJqgEp2iQAU9zyG_8N4IP3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971200986608-817e0gr9ksddcrmbedtq23029o3pluel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
